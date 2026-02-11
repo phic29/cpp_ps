@@ -1,0 +1,15 @@
+# executable / build outputs
+main
+*.out
+*.exe
+*.dSYM/
+build/
+
+# local test files
+input.txt
+
+# vscode settings (취향)
+.vscode/
+
+# mac junk
+.DS_Store
